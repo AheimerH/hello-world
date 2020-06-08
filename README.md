@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Einfach etwas GIT lernen, damit meine Zellen nicht verwelken.
