@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hai,
+
+dis is may firschd gitstep.
+
+
