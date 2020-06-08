@@ -1,7 +1,5 @@
 # hello-world
 
-Hai,
 
-dis is may firschd gitstep.
-
-
+Einfach etwas GIT lernen, damit meine Zellen nicht verwelken.
+Da muss woh was dazu
